@@ -1,0 +1,8 @@
+The Rainbow
+purple
+pink
+orange
+red
+yellow
+green
+white
